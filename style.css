@@ -1,0 +1,42 @@
+h4{
+    border-style: solid;
+    border-color: darkblue;
+    border-inline-style: initial;
+    color: darkblue;
+    background-color: rgb(75, 75, 190);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#form , #messages{
+    color: blue;
+    margin-left: 100px;
+    size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#send{
+    color: bisque;
+    background-color: blueviolet;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: lightskyblue;
+}
+
+#messages{
+    border-style: solid;
+    border-color: blue;
+    border-inline-style: initial;
+    font-size: 25px;
+    background-color: dodgerblue;
+    list-style-image: url(butterfly.jpg);
+}
+
+#m{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: mediumaquamarine;
+}
